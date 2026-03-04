@@ -1,5 +1,6 @@
 # hibrit-duygu-analiz-motoru
 "BERT (NLP) ve Librosa (Audio Processing) kullanarak geliştirilmiş, metin ve ses verilerini eş zamanlı işleyen çok modlu (multimodal) duygu analiz motoru."
+Kullanıcının mikrofonla ses kaydını alıp daha sonrasında girilen metinle birlikte kullanıcının duygu durumu konusunda belirli bir çıktı verir.Ses hassasiyet eşiği ile de gürültülü ortamlarda bile sesi net bir şekilde alabilir.
 
   
   <img width="300" height="500" alt="Ekran görüntüsü 2026-03-03 112537" src="https://github.com/user-attachments/assets/8a1c5e27-67b5-45a5-9202-4db2d03f3634" />
